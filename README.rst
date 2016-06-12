@@ -7,7 +7,7 @@
 AWS CloudTrail Processing Library
 =================================
 
-The |library| is a Java client library that makes it easy to build an application that reads and processes
+... The |library| is a Java client library that makes it easy to build an application that reads and processes
 CloudTrail log files in a fault tolerant and highly scalable manner.
 
 * `CloudTrail Product Page <http://aws.amazon.com/cloudtrail/>`_
