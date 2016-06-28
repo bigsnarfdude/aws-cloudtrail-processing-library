@@ -4,7 +4,7 @@
 .. |s3| replace:: Amazon S3
 
 
-AWS CloudTrail Processing Library
+AWS CloudTrail Processing Library!
 =================================
 
 https://java.awsblog.com/post/Tx12VURHBNFLXMR/Announcing-the-AWS-CloudTrail-Processing-Library
